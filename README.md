@@ -1,6 +1,10 @@
-🌦️ Weather Web App Welcome to the Weather Web App—your go-to destination for real-time weather updates, no matter where you are!
+🌦️ Weather Web App:
 
-About Me 👋 Hi, I'm Ahmed, a full-stack web developer specializing in the MERN stack. I built this weather app with HTML, CSS, Bootstrap, and JavaScript to showcase my ability to create responsive interfaces that integrate seamlessly with external APIs for real-time data. I'm passionate about solving problems and enhancing performance through scalable solutions. Let’s connect on GitHub or LinkedIn."
+- Welcome to the Weather Web App—your go-to destination for real-time weather updates, no matter where you are!
+
+About Me 👋:
+
+- Hi, I'm Ahmed, a full-stack web developer specializing in the MERN stack. I built this weather app with HTML, CSS, Bootstrap, and JavaScript to showcase my ability to create responsive interfaces that integrate seamlessly with external APIs for real-time data. I'm passionate about solving problems and enhancing performance through scalable solutions. Let’s connect on GitHub or LinkedIn."
 
 🌍 Features:
 
